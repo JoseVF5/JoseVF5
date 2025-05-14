@@ -1,10 +1,11 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=800&size=40&duration=6000&pause=1000&color=33F834&background=C4FFA800&center=true&width=1200&height=60&lines=%E2%94%8A+Welcome+to+my+Profile!+%E2%94%8A;Always+challenging+myself+to+improve)](https://git.io/typing-svg)
 
+#
 
+<p align="center">Estudante de Engenharia de Software na Faculdade UniCesumar. Atualmente busco através dos meus estudos ingressar no mercado como Engenheiro de Dados.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e buscar formas de aplicar meus conhecimentos para criar soluções inovadoras.
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseVF5/JoseVF5/output/github-contribution-grid-snake-dark.svg">
