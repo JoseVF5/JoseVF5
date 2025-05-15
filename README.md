@@ -13,8 +13,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVF5&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-#
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseVF5/JoseVF5/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseVF5/JoseVF5/output/github-contribution-grid-snake-dark.svg">
