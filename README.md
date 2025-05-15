@@ -7,10 +7,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVF5&layout=compact&theme=radical" alt="Top Langs" />
-  <br />
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoseVF5&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVF5&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 #
