@@ -2,7 +2,7 @@
 
 #
 
-<p align="center">Estudante de Engenharia de Software na Faculdade UniCesumar. Atualmente busco através dos meus estudos ingressar no mercado como Engenheiro de Dados.
+<p align="center">Me chamo José Victor, atualmente sou Engenheiro de Software Junior e, através dos meus estudos, busco me especializar no mercado como Engenheiro de Dados.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e buscar formas de aplicar meus conhecimentos para criar soluções inovadoras.
 
 #
