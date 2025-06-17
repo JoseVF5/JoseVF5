@@ -9,7 +9,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=800&size=40&duration=6100&pause=2000&color=33F834&background=C4FFA800&center=true&width=1200&height=60&lines=%E2%94%8A+My+GitHub+Status!+%E2%94%8A;A+summary+of+my+journey+so+far!)](https://git.io/typing-svg)
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoseVF5&show_icons=true&theme=radical&include_all_commits=true&count_private=true"  />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoseVF5&show_icons=true&theme=radical&includecommits=true&count_private=true"  />
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVF5&layout=compact&theme=radical" />  
 </p>
 
