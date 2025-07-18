@@ -24,9 +24,8 @@
   <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure"  />
 </div>
 
-##
-<h2 align="left">🔥My Stats </h2>
-
+#
+<h3 align="left" >🔥My Stats </h3>
 <div align="center">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVF5&layout=compact&theme=radical" height="180" />  
   <div align="center">
@@ -36,7 +35,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=JoseVF5&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-##
+#
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseVF5/JoseVF5/output/pacman-contribution-graph-dark.svg">
