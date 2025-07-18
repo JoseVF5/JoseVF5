@@ -27,9 +27,9 @@
 ##
 <h3 align="left">🔥  My Stats :</h3>
 
-<div align="left">
+<div align="center">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVF5&layout=compact&theme=radical" height="180" />  
-  <div align="left">
+  <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoseVF5&show_icons=true&theme=radical&includecommits=true&count_private=true" height="166" />
   <img src="https://streak-stats.demolab.com?user=JoseVF5&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="166" alt="streak graph"  />
   </div>
