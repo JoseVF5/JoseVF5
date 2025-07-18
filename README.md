@@ -25,7 +25,7 @@
 </div>
 
 ##
-<h3 align="left">🔥  My Stats :</h3>
+<h2 align="left">🔥My Stats </h2>
 
 <div align="center">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVF5&layout=compact&theme=radical" height="180" />  
