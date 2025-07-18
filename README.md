@@ -1,21 +1,47 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=800&size=40&duration=6200&pause=2200&color=33F834&background=C4FFA800&center=true&width=1200&height=60&lines=%E2%94%8A+Welcome+to+my+Profile!+%E2%94%8A;Always+challenging+myself+to+improve)](https://git.io/typing-svg)
+<div> 
+  <h1 align="Left"> A little about who I am 👾</h1>
+      <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  align="right"/>
+  <p> My name is José Victor. I'm currently pursuing a Junior Data Engineer degree, and through my studies, I'm seeking to specialize in the market as a Data professional. I'm constantly updating my knowledge and seeking new challenges in the technology field. I'm passionate about learning and seeking ways to apply my knowledge to create innovative solutions. </p>
+  <p>I'm currently studying for my Azure certifications and honing my skills in frameworks like Pandas and Numpy to apply them to projects with large volumes of data. I'm also developing a talk to demystify artificial intelligence as a project for my Software Engineering degree.</p>
+</div>
 
-#
+<div align="center">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure"  />
+</div>
 
-  <p align="center">Atualmente sou Engenheiro de Software Junior e através dos meus estudos busco me especializar no mercado como Engenheiro de Dados.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e buscar formas de aplicar meus conhecimentos para criar soluções inovadoras.
+##
+<h3 align="left">🔥  My Stats :</h3>
 
-#
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=800&size=40&duration=6100&pause=2000&color=33F834&background=C4FFA800&center=true&width=1200&height=60&lines=%E2%94%8A+My+GitHub+Status!+%E2%94%8A;A+summary+of+my+journey+so+far!)](https://git.io/typing-svg)
-
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoseVF5&show_icons=true&theme=radical&includecommits=true&count_private=true" height="180" />
+<div align="left">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVF5&layout=compact&theme=radical" height="180" />  
-</p>
+  <div align="left">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoseVF5&show_icons=true&theme=radical&includecommits=true&count_private=true" height="166" />
+  <img src="https://streak-stats.demolab.com?user=JoseVF5&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="166" alt="streak graph"  />
+  </div>
+  <img src="https://github-profile-trophy.vercel.app?username=JoseVF5&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseVF5/JoseVF5/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseVF5/JoseVF5/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoseVF5/JoseVF5/output/github-contribution-grid-snake.svg">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseVF5/JoseVF5/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseVF5/JoseVF5/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoseVF5/JoseVF5/output/pacman-contribution-graph.svg">
 </picture>
+
+###
