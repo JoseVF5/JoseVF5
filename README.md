@@ -32,7 +32,7 @@
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoseVF5&show_icons=true&theme=radical&includecommits=true&count_private=true" height="166" />
   <img src="https://streak-stats.demolab.com?user=JoseVF5&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="166" alt="streak graph"  />
   </div>
-  <img src="https://github-profile-trophy.vercel.app?username=JoseVF5&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=JoseVF5&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
 #
