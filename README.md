@@ -5,7 +5,7 @@
   <p>I'm currently studying for my Azure certifications and honing my skills in frameworks like Pandas and Numpy to apply them to projects with large volumes of data. I'm also developing a talk to demystify artificial intelligence as a project for my Software Engineering degree.</p>
 </div>
 
-<div align="center">
+<div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img width="12" />
@@ -24,8 +24,8 @@
   <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" />
 </div>
 
-#
-<h3 align="left" >🔥My Stats </h3>
+###
+<h1 align="left" >🔥My proficiency stats </h1>
 <div align="center">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVF5&layout=compact&theme=dark" height="180" />  
   <div align="center">
