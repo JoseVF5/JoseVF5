@@ -13,13 +13,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" />
 </div>
 
 #
