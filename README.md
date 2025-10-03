@@ -9,7 +9,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=githubactions" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" />
   <img width="12" />
