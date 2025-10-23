@@ -27,7 +27,7 @@
 ###
 <h1 align="left" >🔥My proficiency stats </h1>
 <div align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVF5&layout=compact&theme=dark" height="180" />  
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVF5&layout=compact&theme=dark&cache_seconds=1800&langs_count=20" height="180" />  
   <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoseVF5&show_icons=true&theme=dark&includecommits=true&count_private=true" height="166" />
   <img src="https://streak-stats.demolab.com?user=JoseVF5&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="166" alt="streak graph"  />
