@@ -1,8 +1,11 @@
 <div> 
   <h1 align="Left"> A little about who I am 👾</h1>
       <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  align="right"/>
-  <p> My name is José Victor. I'm currently pursuing a Junior Data Engineer degree, and through my studies, I'm seeking to specialize in the market as a Data professional. I'm constantly updating my knowledge and seeking new challenges in the technology field. I'm passionate about learning and seeking ways to apply my knowledge to create innovative solutions. </p>
-  <p>I'm currently studying for my Azure certifications and honing my skills in frameworks like Pandas and Numpy to apply them to projects with large volumes of data. I'm also developing a talk to demystify artificial intelligence as a project for my Software Engineering degree.</p>
+  <p> My name is José Victor! I work in the field of Data Engineering. My daily motivation is to understand and optimize each stage of the data lifecycle: from extraction to delivery to the end user.
+  </p>
+  <p>Instead of just focusing on theory, I seek to get my hands dirty, applying my studies to real-world scenarios. My main project at the moment is building a Data Mart, where I am responsible for designing the architecture and orchestrating the information flow. In this process, I use Python, SQL, and Apache Spark to ensure that the extraction, transformation, and loading (ETL) processes are efficient and scalable.
+
+I enjoy solving data flow and quality problems, working with different sources and ensuring that the final information arrives structured, clean, and ready to generate business insights.</p>
 </div>
 
 <div align="left">
