@@ -3,7 +3,7 @@ name: Generate pacman animation
 on:
   schedule: # execute every 12 hours
     - cron: "30 4-8 * * *"
-      timezone: "America/Brazil"
+      timezone: "América/São_Paulo"
 
   workflow_dispatch:
 
