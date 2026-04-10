@@ -1,11 +1,11 @@
 <div> 
-  <h1 align="Left"> A little about who I am 👾</h1>
+  <h1 align="Left"> Um pouco sobre quem eu sou 👾</h1>
       <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  align="right"/>
-  <p> My name is José Victor! I work in the field of Data Engineering. My daily motivation is to understand and optimize each stage of the data lifecycle: from extraction to delivery to the end user.
+  <p> Meu nome é José Victor! Trabalho na área de Engenharia de Dados. Minha motivação diária é entender e otimizar cada etapa do ciclo de vida dos dados: da extração à entrega ao usuário final.
   </p>
-  <p>Instead of just focusing on theory, I seek to get my hands dirty, applying my studies to real-world scenarios. My main project at the moment is building a Data Mart, where I am responsible for designing the architecture and orchestrating the information flow. In this process, I use Python, SQL, and Apache Spark to ensure that the extraction, transformation, and loading (ETL) processes are efficient and scalable.
+  <p> Em vez de me concentrar apenas na teoria, busco colocar a mão na massa, aplicando meus estudos a cenários reais. Meu principal projeto no momento é a construção de um Data Mart, onde sou responsável por projetar a arquitetura e orquestrar o fluxo de informações. Nesse processo, utilizo Python, SQL e Apache Spark para garantir que os processos de extração, transformação e carregamento (ETL) sejam eficientes e escaláveis.
 
-I enjoy solving data flow and quality problems, working with different sources and ensuring that the final information arrives structured, clean, and ready to generate business insights.</p>
+ Gosto de resolver problemas de fluxo e qualidade de dados, trabalhar com diferentes fontes e garantir que a informação final chegue estruturada, limpa e pronta para gerar insights de negócios.</p>
 </div>
 
 <div align="left">
@@ -20,21 +20,19 @@ I enjoy solving data flow and quality problems, working with different sources a
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" />
 </div>
 
 ###
 <h1 align="left" >🔥My proficiency stats </h1>
-<div align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVF5&layout=compact&theme=dark&cache_seconds=1800&langs_count=20" height="180" />  
-  <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoseVF5&show_icons=true&theme=dark&includecommits=true&count_private=true" height="166" />
+<div align="left"> 
+  <div align="left">
   <img src="https://streak-stats.demolab.com?user=JoseVF5&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="166" alt="streak graph"  />
-  </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseVF5&theme=dark" alt="GitHub Stats" /> 
  <!-- <img src="https://github-profile-trophy.vercel.app?username=JoseVF5&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> -->
 </div>
 
