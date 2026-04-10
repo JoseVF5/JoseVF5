@@ -28,7 +28,7 @@
 </div>
 
 ###
-<h1 align="left" >🔥My proficiency stats </h1>
+<h1 align="left" >Minhas estatísticas de proficiência 🔥</h1>
 <div align="left"> 
   <div align="left">
   <img src="https://streak-stats.demolab.com?user=JoseVF5&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="166" alt="streak graph"  />
